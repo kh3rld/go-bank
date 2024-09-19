@@ -1,0 +1,25 @@
+{
+  "balance": 1100,
+  "transactions": [
+    {
+      "Type": "credit",
+      "Amount": 1000
+    },
+    {
+      "Type": "credit",
+      "Amount": 10
+    },
+    {
+      "Type": "debit",
+      "Amount": 10
+    },
+    {
+      "Type": "debit",
+      "Amount": 100
+    },
+    {
+      "Type": "debit",
+      "Amount": 1000
+    }
+  ]
+}
